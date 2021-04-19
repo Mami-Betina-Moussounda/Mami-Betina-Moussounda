@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mami-Betina-Moussounda
+- 👀 I’m interested in software developement
+- 🌱 I’m currently learning web development (javaEE, Javascript, PHP)
+- 📫 How to reach me: mamibetina1@gmail.com
